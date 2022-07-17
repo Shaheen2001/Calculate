@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="Title">70sp</dimen>
+    <dimen name="start_space_text">10dp</dimen>
+    <dimen name="end_space_text">10dp</dimen>
+    <dimen name="width_text_login">265dp</dimen>
+    <dimen name="height_text_login">50dp</dimen>
+    <dimen name="width_text_regster">300dp</dimen>
+    <dimen name="height_text_regster">48dp</dimen>
+</resources>

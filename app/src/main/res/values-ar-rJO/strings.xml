@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Healthic">الصحة</string>
+    <string name="sign_up">حساب جديد</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="healthic">صحي</string>
+    <string name="first_number">الرقم الأول</string>
+    <string name="sum">اجمع</string>
+    <string name="second_number" translatable="false">الرقم الثاني</string>
+    <string name="total">الناتج</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/border.xml" value="0.139" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/button_color.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/custom_phone.xml" value="0.1615" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.174" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_lock.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_lock_focas.xml" value="0.101" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_love.xml" value="0.139" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_phone.xml" value="0.139" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_phone_focas.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_security.xml" value="0.101" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_user.xml" value="0.1785" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/ic_user_focas.xml" value="0.101" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/lock_custom.xml" value="0.101" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/shadow.xml" value="0.101" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/shadow_bt.xml" value="0.1655" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/shadow_btn.xml" value="0.139" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/drawable/user_custom.xml" value="0.1775" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_calculate.xml" value="0.25" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_engneer.xml" value="0.25" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_replace.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/activity_rgister.xml" value="0.25" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/layout/artical.xml" value="0.30708661417322836" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.139" />
+        <entry key="..\:/Users/abood/AndroidStudioProjects/FirstProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.139" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

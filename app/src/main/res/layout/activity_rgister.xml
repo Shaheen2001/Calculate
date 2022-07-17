@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border"
+android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".rgister"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shadow_btn"
+        android:elevation="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="15dp"
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="cursive"
+                android:text="@string/sign_up"
+                android:textColor="@color/green"
+                android:textSize="70sp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <EditText
+                style="@style/box_text_regster"
+                android:drawableLeft="@drawable/user_custom"
+
+                android:hint="First Name"
+                android:inputType="text"
+                android:textColorHint="#114E2A" />
+
+            <EditText
+                style="@style/box_text_regster"
+                android:drawableLeft="@drawable/user_custom"
+                android:hint="Last Name"
+                android:inputType="text"
+                android:textColorHint="#114E2A" />
+
+            <EditText
+                style="@style/box_text_regster"
+                android:drawableLeft="@drawable/lock_custom"
+
+                android:hint="Password"
+                android:inputType="textPassword"
+
+                android:textColor="@color/black"
+                android:textColorHint="#114E2A"
+
+                />
+
+            <EditText
+                style="@style/box_text_regster"
+                android:drawableLeft="@drawable/lock_custom"
+                android:hint="Confirme password"
+                android:inputType="textPassword"
+                android:textColor="@color/black"
+                android:textColorHint="#114E2A"
+
+                />
+
+            <EditText
+                style="@style/box_text_regster"
+                android:drawableLeft="@drawable/custom_phone"
+                android:hint="Phone Number"
+                android:inputType="number"
+                android:textColor="@color/black"
+                android:textColorHint="#114E2A"
+
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+
+            android:orientation="vertical">
+
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Gender  "
+                    android:textColor="@color/black"
+                    android:textSize="25sp"
+
+                    />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:text="Male"
+                    android:textColor="#114E2A"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Female"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+            </RadioGroup>
+
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+
+                android:layout_marginTop="20dp"
+                android:text="I confirem all Massege"
+                android:textColor="#114E2A"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="15dp"
+        android:background="@drawable/button_color"
+
+        android:text="Sign up"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
+        />
+
+</LinearLayout>

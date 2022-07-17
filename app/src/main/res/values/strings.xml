@@ -1,0 +1,23 @@
+<resources>
+    <string name="Healthic">Healthic</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="healthic">Healthic</string>
+    <string name="first_number">first_number</string>
+    <string name="sum">sum</string>
+    <string name="second_number">second_number</string>
+    <string name="total">total</string>
+    <string name="calculates">calculates</string>
+
+
+    <string-array name="shapes">
+
+        <item>select shape</item>
+        <item>rectangle</item>
+        <item>circle</item>
+        <item>triangle</item>
+    </string-array>
+
+
+</resources>
